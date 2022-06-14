@@ -1,0 +1,2 @@
+lieu des scripts: cd /scratchbeta/turkp
+qsub -l select=1:ncpus=24 -q beta -l walltime=1:00:00 -N treatment_test_1 -I

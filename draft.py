@@ -1,0 +1,3 @@
+seq_2 = "STWYVARNDCQEGHILKMFPSTWYVARNDCQ"
+
+print(seq_2[5:-5])
